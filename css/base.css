@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+ul, ol, li {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+body {
+    font-size: 14px;
+    background-image: url(/img/409f3b74e856b516ad8bcead8dd53dbcdb4c86bd.jpg@672w_378h_1c_!web-search-common-cover.avif);
+    background-size: cover;
+}
+
+input{
+    border: 0 none;
+    outline-style: none;
+}
+
+img {
+    vertical-align: middle;
+}
